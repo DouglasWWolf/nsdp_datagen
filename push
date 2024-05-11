@@ -1,0 +1,7 @@
+export project=project
+export folder=.
+
+git add main.cpp makefile README.md push fill_fifo_with_prbs.sh
+
+git commit -m "No commit message"
+git push origin main
